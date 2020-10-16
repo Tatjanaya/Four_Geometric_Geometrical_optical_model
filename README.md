@@ -1,0 +1,2 @@
+# Four_Geometric_Geometrical_optical_model
+四分量和各个波段反射率计算
